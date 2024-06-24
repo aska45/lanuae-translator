@@ -1,0 +1,1 @@
+# lanuae-translator
