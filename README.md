@@ -1,1 +1,1 @@
-# lanuae-translator
+# language-translator
